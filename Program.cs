@@ -9,7 +9,7 @@ static void create_file_json(string titulo, string datos){
     int residuo = tamanio % 20;
     int no_doc = 1;
 
-    string folderPath = $@"C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\ProyectoFAT\{titulo}";
+    string folderPath = $@"C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\{titulo}";
 
     if (!Directory.Exists(folderPath))
     {
@@ -102,7 +102,7 @@ static void createTabla(string titulo, string datos){
     string[] palabras = datos.Split(' ');
 
     string nombreArchivo = $"{titulo}";
-    string rutaDatosInicial = $"C:/Users/artha/Desktop/Cuarto Semestre/Manejo e implementacion/ProyectoFAT/{titulo}/{titulo}1";
+    string rutaDatosInicial = $"C:/Users/artha/Desktop/Cuarto Semestre/Manejo e implementacion/Repo ProyectoFAT/proyectoTablaFAT/{titulo}/{titulo}1";
     bool papelera = false;
     int cantidadDatos = palabras.Length;
     string fechaCreacion = DateTime.Now.ToString();
@@ -131,7 +131,7 @@ static void createTabla(string titulo, string datos){
 static void listar(){
 
     // Directorio principal donde quieres buscar
-    string rootDirectory = @"C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\ProyectoFAT";
+    string rootDirectory = @"C:/Users/artha/Desktop/Cuarto Semestre/Manejo e implementacion/Repo ProyectoFAT/proyectoTablaFAT";
 
     // Nombre del archivo que estás buscando
     string fileNameToFind = "tablaFAT.json";
@@ -178,7 +178,7 @@ static void abrir(){
     listar();
 
     // Directorio principal donde quieres buscar
-    string rootDirectory = @"C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\ProyectoFAT";
+    string rootDirectory = @"C:/Users/artha/Desktop/Cuarto Semestre/Manejo e implementacion/Repo ProyectoFAT/proyectoTablaFAT";
 
     // Nombre del archivo que estás buscando
     string fileNameToFind = "tablaFAT.json";
@@ -260,7 +260,7 @@ static void abrir(){
 static void recuperar(){
 
     // Directorio principal donde quieres buscar
-    string rootDirectory = @"C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\ProyectoFAT";
+    string rootDirectory = @"C:/Users/artha/Desktop/Cuarto Semestre/Manejo e implementacion/Repo ProyectoFAT/proyectoTablaFAT";
 
     // Nombre del archivo que estás buscando
     string fileNameToFind = "tablaFAT.json";

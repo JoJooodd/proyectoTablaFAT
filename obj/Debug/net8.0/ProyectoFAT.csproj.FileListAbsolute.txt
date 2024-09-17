@@ -12,3 +12,18 @@ C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\ProyectoFAT\obj\D
 C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\ProyectoFAT\obj\Debug\net8.0\ProyectoFAT.pdb
 C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\ProyectoFAT\obj\Debug\net8.0\ProyectoFAT.genruntimeconfig.cache
 C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\ProyectoFAT\obj\Debug\net8.0\ref\ProyectoFAT.dll
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\bin\Debug\net8.0\ProyectoFAT.exe
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\bin\Debug\net8.0\ProyectoFAT.deps.json
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\bin\Debug\net8.0\ProyectoFAT.runtimeconfig.json
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\bin\Debug\net8.0\ProyectoFAT.dll
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\bin\Debug\net8.0\ProyectoFAT.pdb
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\obj\Debug\net8.0\ProyectoFAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\obj\Debug\net8.0\ProyectoFAT.AssemblyInfoInputs.cache
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\obj\Debug\net8.0\ProyectoFAT.AssemblyInfo.cs
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\obj\Debug\net8.0\ProyectoFAT.csproj.CoreCompileInputs.cache
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\obj\Debug\net8.0\ProyectoFAT.sourcelink.json
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\obj\Debug\net8.0\ProyectoFAT.dll
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\obj\Debug\net8.0\refint\ProyectoFAT.dll
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\obj\Debug\net8.0\ProyectoFAT.pdb
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\obj\Debug\net8.0\ProyectoFAT.genruntimeconfig.cache
+C:\Users\artha\Desktop\Cuarto Semestre\Manejo e implementacion\Repo ProyectoFAT\proyectoTablaFAT\obj\Debug\net8.0\ref\ProyectoFAT.dll

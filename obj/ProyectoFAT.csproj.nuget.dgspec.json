@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\artha\\Desktop\\Cuarto Semestre\\Manejo e implementacion\\ProyectoFAT\\ProyectoFAT.csproj": {}
+    "C:\\Users\\artha\\Desktop\\Cuarto Semestre\\Manejo e implementacion\\Repo ProyectoFAT\\proyectoTablaFAT\\ProyectoFAT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\artha\\Desktop\\Cuarto Semestre\\Manejo e implementacion\\ProyectoFAT\\ProyectoFAT.csproj": {
+    "C:\\Users\\artha\\Desktop\\Cuarto Semestre\\Manejo e implementacion\\Repo ProyectoFAT\\proyectoTablaFAT\\ProyectoFAT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\artha\\Desktop\\Cuarto Semestre\\Manejo e implementacion\\ProyectoFAT\\ProyectoFAT.csproj",
+        "projectUniqueName": "C:\\Users\\artha\\Desktop\\Cuarto Semestre\\Manejo e implementacion\\Repo ProyectoFAT\\proyectoTablaFAT\\ProyectoFAT.csproj",
         "projectName": "ProyectoFAT",
-        "projectPath": "C:\\Users\\artha\\Desktop\\Cuarto Semestre\\Manejo e implementacion\\ProyectoFAT\\ProyectoFAT.csproj",
+        "projectPath": "C:\\Users\\artha\\Desktop\\Cuarto Semestre\\Manejo e implementacion\\Repo ProyectoFAT\\proyectoTablaFAT\\ProyectoFAT.csproj",
         "packagesPath": "C:\\Users\\artha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\artha\\Desktop\\Cuarto Semestre\\Manejo e implementacion\\ProyectoFAT\\obj\\",
+        "outputPath": "C:\\Users\\artha\\Desktop\\Cuarto Semestre\\Manejo e implementacion\\Repo ProyectoFAT\\proyectoTablaFAT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\artha\\AppData\\Roaming\\NuGet\\NuGet.Config",
