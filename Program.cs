@@ -296,14 +296,17 @@ static void modificar(){
                                     string filePath_new_write = $"{actual_directory}/{tablaFAT.nombreArchivo}/{tablaFAT.nombreArchivo}{l}.json";
                                     File.Delete(filePath_new_write);
                                 }
+                                int new_noDatos = 0;
                                 Console.WriteLine("Ingrese los nuevos datos del archivo: ");
                                 if (Console.ReadKey().Key != ConsoleKey.Escape){
                                     string datos = Console.ReadLine()!;
                                     if (Console.ReadKey().Key == ConsoleKey.Escape){
                                         create_file_json(tablaFAT.nombreArchivo, datos);
+                                        string[] palabras = datos.Split(' ');
+                                        new_noDatos += palabras.Length;
                                     }
                                 }
-                                
+                                tablaFAT.cantidadDatos = new_noDatos;
                                 tablaFAT.fechaModificacion = DateTime.Now.ToString();
 
                                 string actual_directory_newFAT = Directory.GetCurrentDirectory();
